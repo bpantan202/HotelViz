@@ -1,0 +1,64 @@
+/* styles.css */
+.circle1, .circle2,.circle3, .circle4,.circle5, .circle6,.circle7, .circle8{
+    background: white;
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    position: absolute;
+    transform: translateY(-50%);
+}
+.circle1,.circle3,.circle5,.circle7{
+    left: -20px;
+}
+.circle2,.circle4,.circle6,.circle8{
+    right:-20px;
+}
+.circle1,.circle2{
+    top: 40px;
+}
+.circle3,.circle4{
+    top: 105px;
+}
+.circle5,.circle6{
+    top: 170px;
+}
+.circle7,.circle8{
+    top: 235px;
+}
+.coupon-type-box {
+    color:#660000
+}
+.coupon-left {
+    position: absolute;
+    width: 25%; /* Set the width to 25% for the left 1/4 horizontal portion */
+    height: 100%;
+    background-color: #660000; /* Set the background color to crimson red */
+    z-index: -1; /* Ensure the crimson red portion is behind the text */
+}
+.left-box{
+    width: 25%;
+    margin-top:10px;
+}
+.right-box{
+    left: 25%;
+    width: 75%;
+}
+.remaining {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 25%; /* Set the left edge to start after the crimson red portion */
+    background-color: lightgray; /* Set the background color to light gray */
+}
+.gray-text {
+    color: lightgray;
+}
+.text-crimson {
+    color: #660000;
+}
+
+.border-crimson {
+    border-color: #660000;
+    border-width: 2px; /* Adjust border width for table cells */
+}
