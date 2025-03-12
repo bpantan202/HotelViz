@@ -20,7 +20,7 @@ This platform allowing travelers to customize their search, manage reservations,
 
 ### Manage Hotel Page (For Admin)
 ![E](https://github.com/user-attachments/assets/40df250c-3b61-4d6e-89da-09c3f1a8aada)
-<img height="400" alt="F" src="https://github.com/user-attachments/assets/732eb498-5e9a-4548-97f2-bc30a047210b" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img height="400" alt="G" src="https://github.com/user-attachments/assets/165df13b-2ca6-4ae4-bccd-8ed80514915b" />
+<img height="350" alt="F" src="https://github.com/user-attachments/assets/732eb498-5e9a-4548-97f2-bc30a047210b" />&nbsp; &nbsp; &nbsp;<img height="350" alt="G" src="https://github.com/user-attachments/assets/165df13b-2ca6-4ae4-bccd-8ed80514915b" />
 
 ### Member Page
 ![H](https://github.com/user-attachments/assets/0bd4c89d-607d-47e4-8300-37d93521ce20)
